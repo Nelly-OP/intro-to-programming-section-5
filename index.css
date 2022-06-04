@@ -4,12 +4,20 @@ main {
   flex-direction: column;
   align-items: center;
   margin: auto;
+  font-size: 20px;
+  background-color: turquoise;
+  border: blueviolet solid 5px;
 }
 
 #guess {
   width: 5em;
+  margin: 5px;
+  border: solid blueviolet;
 }
 
 #reset {
   margin: 20px;
+  background: url(https://expandedramblings.com/wp-content/uploads/2018/10/Jamaica-Statistics-and-Facts.png);
+  border-radius: 20%;
+  font-size: 20px;
 }
